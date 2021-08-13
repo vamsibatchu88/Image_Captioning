@@ -2,7 +2,7 @@
 Step 1 is to read the information from this file and store it in variable doc
 Doc is a string variable
 
-STEP 2:
+Step 2:
 Now we have to separate Image ID and Image caption from doc variable. load_descriptions
 Function is created. We will do it line by line means, we will split the data with \n. Next for each line we will splut the text on spaces. Token[0] will haveimage id and token[1:] will have caption
 
